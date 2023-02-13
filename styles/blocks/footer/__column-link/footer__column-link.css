@@ -1,0 +1,7 @@
+.footer__column-link {
+  text-decoration: none;
+  color: var(--light);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

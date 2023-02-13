@@ -1,0 +1,8 @@
+@import url('./__iframe/video__iframe.css');
+@import url('./__iframes/video__iframes.css');
+
+.video {
+  /*Идея с перекрытием одной секции другой мне не очень нравится, но если это принципиально я там сделал и закомментил*/
+  padding: 100px 0;
+  background: linear-gradient(to top, var(--background-light) 0 160px, var(--light) 160px 100%);
+}
